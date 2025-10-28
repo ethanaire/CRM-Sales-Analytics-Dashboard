@@ -1,2 +1,8 @@
-# CRM-Sales-Analytics-Dashboard
-A multi-page dashboard to analyse CRM sales activities
+# CRM Sales Analytics Dashboard
+
+## 1. Context 
+
+## 2. Key Analysis Questions
+
+
+
