@@ -35,6 +35,50 @@ This dataset also answers **_important questions_**:
 - Which geographies have potential for expansion?
 - Which sales people bring the most value?
 
+## 2. Data Dictionary 
+
+| **Field** | **Description** |
+| -------- | ------- |
+| Retail Order ID | Internal transaction code, unique for each order. |
+| Order ID | Business identifier in Region-Year-Sequence format, used for tracking & reporting. | 
+| Order Date | Date the customer placed the order. |
+| Ship Date | Date the customer received the item. |
+| Ship Mode ID | Link to the Ship Mode table (1–4: Standard, Second Class, First Class, Same Day). |
+| Customer ID | Unique customer ID, used for customer behavior & lifecycle analysis. |
+| Postal Code | Customer postal code, linked to the Location table for geographic analysis. |
+| Retail Sales Person ID | Salesperson ID responsible for the order. |
+| Product ID | Unique product ID, linked to the Product table. |
+| Returned | Order status: Yes = returned / Not = completed. |
+| Ship Status | Delivery status: On-Time or Late. |
+| Sales | Order revenue (USD). |
+| Quantity | Number of products in the order. |
+| Profit | Profit (USD) = Sales – Cost. |
+| Cost | Cost (USD), including cost price & fulfillment costs. |
+| Days | Processing time: number of days from Order Date to Ship Date (actual customer waiting time). |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 3. Key Analysis Questions
   
 1. What is the overall delivery performance? What factors have the greatest impact on late delivery rates?
