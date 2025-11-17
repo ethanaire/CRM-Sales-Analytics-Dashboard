@@ -35,5 +35,17 @@ This dataset also answers **_important questions_**:
 - Which geographies have potential for expansion?
 - Which sales people bring the most value?
 
+## 3. Key Analysis Questions
+  
+1. What is the overall delivery performance? What factors have the greatest impact on late delivery rates?
 
+2. Which product categories and sub-categories have the **highest profit margins**?
+3. How do customer segments (Corporate, Consumer, Home Office) differ in terms of sales, profits and return rates?
+4. Which geographic regions generate the highest sales? Which regions have the most late orders?
+5. How does **Ship Mode** impact customer experience (On-Time Delivery %, Return Rate)?
+6. Which sales reps perform best (sales, profits, customer retention)?
+7. Are there any **seasonal trends** in order volume, product mix and delivery performance?
+8. Which products have the highest return rates? Is this related to quality or logistics?
+9. How does order size (Quantity, Order Value) affect delivery time and return rate?
+10. What are the opportunities to optimize the supply chain to **reduce costs** and **increase delivery speed**?
 
