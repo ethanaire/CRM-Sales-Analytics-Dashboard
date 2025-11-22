@@ -57,28 +57,6 @@ This dataset also answers **_important questions_**:
 | Days | Processing time: number of days from Order Date to Ship Date (actual customer waiting time). |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 3. Key Analysis Questions
   
 1. What is the overall delivery performance? What factors have the greatest impact on late delivery rates?
@@ -93,3 +71,14 @@ This dataset also answers **_important questions_**:
 9. How does order size (Quantity, Order Value) affect delivery time and return rate?
 10. What are the opportunities to optimize the supply chain to **reduce costs** and **increase delivery speed**?
 
+## 4. Fields for Future Work
+
+Page **Predict & Forecasting**: Predict supply chain performance and revenue
+- Objective: forecast important indicators such as On-Time Delivery Rate, Profit Margin, Return Rate, Revenue Trend in the next 3–6 months to help businesses proactively make decisions.
+
+- Recommended components:
+  - Line chart Actual vs Predicted: use Forecasting tool or Linear Regression in Power BI for Delivery Rate, Revenue, Profit.
+    
+  - KPIs Cards: Predicted Revenue, Predicted Return Rate, Confidence Interval (±%).
+  - Heatmap: early warning by Region × Ship Mode (red: increased risk of delay, blue: stable).
+  - Scatter chart: Forecasted Orders vs Delivery Days → identify potential risk areas in operations.
